@@ -17,7 +17,7 @@ int main()
     i=0;
     printf("Enter number to search for...");
     scanf("%d", &a);
-    while(i<5)
+    while(i<20)
     {
         if(a==ar[i])
         {
