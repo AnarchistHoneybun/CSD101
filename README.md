@@ -5,7 +5,8 @@ List of everything I've got on here
 1. Practice Lab 1(pdf) - Basic ubuntu commands, and how to write a barebones C program in it.
 2. Assignment 1(folder) - First graded assignment solutions. Numericals are done in the pdf, rest are named as p[question no.] C source files.
 3. Assignment 2(folder) - Second assignment solutions. Same naming convention as prev.
-4. Assignment 4(folder) - Third assignment solutions.  Same naming convention as prev.
+4. Assignment 3(folder) - Third assignment solutions.  Same naming convention as prev.
+5. Assignment 4(folder) - Fourth assignment solutions.  Same naming convention as prev. This one's ungraded, practice for sem1 midterms.
 
 
 
