@@ -9,7 +9,8 @@ List of everything I've got on here
 5. Assignment 4(folder) - Fourth assignment solutions.  Same naming convention as prev. This one's ungraded, practice for sem1 midterms.
 6. Assignment 5(folder) - Fifth assignment solutions; though a few have been skipped as they were repeats of previously solved questions with pointers included now. Same naming convention as prev. This one's ungraded, and has questions with arrays, practice for sem1 lab.
 7. Assignment 6(folder) - Sixth assignment solutions; function defining and calling practice. Same naming convention as prev.
-8. Assignment 7(folder) - Seventh assignment solutions; recusrion questions. Same naming convention as prev.
+8. Assignment 7(folder) - Seventh assignment solutions; recursion questions. Same naming convention as prev.
+9. Assignment 8(folder) - Eighth assignment solutions; recursion and pointer related questions. Same naming convention as prev.
 
 
 
