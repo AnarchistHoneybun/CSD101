@@ -1,5 +1,5 @@
-# CSD101
-CSD101 course assignments, and other related stuff
+## CSD101
+CSD101 course assignments, quizzes et al.
 
 List of everything I've got on here
 01. Practice Lab 1(pdf) - Basic ubuntu commands, and how to write a barebones C program in it.
