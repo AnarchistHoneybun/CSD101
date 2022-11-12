@@ -2,15 +2,17 @@
 CSD101 course assignments, and other related stuff
 
 List of everything I've got on here
-1. Practice Lab 1(pdf) - Basic ubuntu commands, and how to write a barebones C program in it.
-2. Assignment 1(folder) - First graded assignment solutions. Numericals are done in the pdf, rest are named as p[question no.] C source files.
-3. Assignment 2(folder) - Second assignment solutions. Same naming convention as prev.
-4. Assignment 3(folder) - Third assignment solutions.  Same naming convention as prev.
-5. Assignment 4(folder) - Fourth assignment solutions.  Same naming convention as prev. This one's ungraded, practice for sem1 midterms.
-6. Assignment 5(folder) - Fifth assignment solutions; though a few have been skipped as they were repeats of previously solved questions with pointers included now. Same naming convention as prev. This one's ungraded, and has questions with arrays, practice for sem1 lab.
-7. Assignment 6(folder) - Sixth assignment solutions; function defining and calling practice. Same naming convention as prev.
-8. Assignment 7(folder) - Seventh assignment solutions; recursion questions. Same naming convention as prev.
-9. Assignment 8(folder) - Eighth assignment solutions; recursion and pointer related questions. Same naming convention as prev.
+01. Practice Lab 1(pdf) - Basic ubuntu commands, and how to write a barebones C program in it.
+02. Assignment 1 - Graded | Basic C programmes 
+03. Assignment 2 - Graded | Conditional statements, If-else, Switch
+04. Assignment 3 - Graded | Array beginner programmes, Arithmetic
+05. Assignment 4 - Ungraded | Arithmetic, Revision for sem-1 midterm lab
+06. Assignment 5 - Ungraded | Matrices, Arrays, Revision for sem-1 midterm lab
+07. Assignment 6 - Graded | Menu-based beginner programmes, Functions
+08. Assignment 7 - Graded | Recursion beginner programmes
+09. Assignment 8 - Graded | Moderate recursion problems
+10. Assignment 9 - Graded | Advanced recursion and pointers problems
+11. Assignment 10 - Graded | Pointer arithmetic, Memory allocation 
 
 
 
