@@ -9,7 +9,7 @@ material up to date. For any requests/issues, reach out to me [here](mailto:typh
 ### Notice
 * Code and other forms of solution provided here are for reference and understanding of person(s) perusing this.
 * Any code/solution provided here may not be used are reference for submissions, fully or partially.
-* Further usage is governed under the [BSD-3-Clause License](LICENSE.md).  
+* Further usage is governed under the [BSD-3-Clause License](LICENSE).  
 
 ### Contents
 01. Practice Lab 1(pdf) - Basic ubuntu commands, and how to write a barebones C program in it.
