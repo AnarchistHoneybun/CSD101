@@ -24,6 +24,7 @@ material up to date. For any requests/issues, reach out to me [here](mailto:typh
 10. Assignment 10 - Graded | Pointer arithmetic, Memory allocation 
 11. Misc - Miscellaneous folder to hold stuff other than the assignments
 
-
+## Author
+- [@AnarchistHoneybun](https://github.com/AnarchistHoneybun)
 
         
