@@ -10,11 +10,8 @@ material up to date. For any requests/issues, reach out to me [here](mailto:typh
 * Code and other forms of solution provided here are for reference and understanding of person(s) perusing this.
 * Any code/solution provided here may not be used are reference for submissions, fully or partially.
 * Further usage is governed under the [BSD-3-Clause License](LICENSE).  
-
-
 --
-
-List of everything I've got on here
+### Contents
 01. Practice Lab 1(pdf) - Basic ubuntu commands, and how to write a barebones C program in it.
 02. Assignment 1 - Graded | Basic C programmes 
 03. Assignment 2 - Graded | Conditional statements, If-else, Switch
