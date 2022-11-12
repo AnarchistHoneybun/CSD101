@@ -1,5 +1,5 @@
-## CSD101
-Course assignments, quizzes et al.##
+# CSD101
+## Course assignments, quizzes et al.
 
 ### Description
 This repository contains all the coursework, quizzes, projects, code, and other "stuff" assigned in the CSD101 course at
