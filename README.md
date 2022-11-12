@@ -4,7 +4,7 @@ CSD101 course assignments, quizzes et al.
 ### Description
 This repository contains all the coursework, quizzes, projects, code, and other "stuff" assigned in the CSD101 course at
 Shiv Nadar University in the Monsoon 2022 Semester. Efforts have been made to keep the directories, code, and source 
-material up to date. For any requests/issues, reach out to me [here](typhoeusxoxo@gmail.com "here")
+material up to date. For any requests/issues, reach out to me [here](mailto: typhoeusxoxo@gmail.com "here")
 
 ### Notice
 - Code and other forms of solution provided here are for reference and understanding of person(s) perusing this.
