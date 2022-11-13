@@ -7,7 +7,7 @@ Shiv Nadar University in the Monsoon 2022 Semester. Efforts have been made to ke
 material up to date. For any requests/issues, reach out to me [here](mailto:typhoeusxoxo@gmail.com).
 
 ### Notice
-* Naming format, unless specified otherwise, is p<question number>.c for the particular assignment.
+* Naming format, unless specified otherwise, is p\<question number\>.c for the particular assignment.
 * Code and other forms of solution provided here are for reference and understanding of person(s) perusing this.
 * Any code/solution provided here may not be used as reference/copied for submissions, fully or partially.
 * Further usage is governed under the [BSD-3-Clause License](LICENSE).  
