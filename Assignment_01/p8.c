@@ -3,18 +3,23 @@
 
 int main()
 {
-    int a, rem;
+    int year, rem;
     printf("This program checks if an year is leap.\n");
-    printf("Input year to be checked");
-    scanf("%d", &a);
-    rem=a%4;
-    if (rem==0)
-    {
-        printf("The year %d is leap. \n", a);
+    printf("Input year to be checked: ");
+    scanf("%d", &year);
+    if(year%4==0){
+        if(year%100==0){
+            if(year%400==0){
+                printf("Year is a leap year.");
+            }else{
+                printf("Year is not a leap year.");
+            }
+        }else{
+            printf("Year is a leap year.");
+        }
+    }else{
+        printf("Year is not a leap year.");
     }
-    else
-    {
-        printf("The year %d is not leap. \n", a);
-    }
+        
     return 0;
 }
