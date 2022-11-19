@@ -28,4 +28,4 @@ material up to date. For any requests/issues, reach out to me [here](mailto:typh
 ## Author
 - [@AnarchistHoneybun](https://github.com/AnarchistHoneybun)
 
-        
+Shoutout to [@Aaradhy-Sharma](https://github.com/Aaradhy-Sharma) for inspiration for setting up this readme.
