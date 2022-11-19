@@ -10,6 +10,7 @@ void main()
                 };
     int(*p)[4];
     p=a;
+    printf("Printing directly: \n");
     printf("p=%u p+1=%u p+2=%u", p,p+1,p+2);
     printf("\n");
     for(int i=0;i<3;i++){
@@ -19,7 +20,8 @@ void main()
         printf("\n");
     }
     printf("\n");
-    printf("p=%u p+1=%u p+2=%u", a,a+1,a+2);
+    printf("Printing using 'a' as pointer: \n");
+    printf("p=%u p+1=%u p+2=%u", *a,*(a+1),*(a+2));
     printf("\n");
     for(int i=0;i<3;i++){
         for(int j=0;j<4;j++){
