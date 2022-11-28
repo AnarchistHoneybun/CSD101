@@ -23,7 +23,8 @@ material up to date. For any requests/issues, reach out to me [here](mailto:typh
 08. Assignment 8 - Graded | Moderate recursion problems
 09. Assignment 9 - Graded | Advanced recursion and pointers problems
 10. Assignment 10 - Graded | Pointer arithmetic, Memory allocation 
-11. Misc - Miscellaneous folder to hold stuff other than the assignments
+11. Assignment 11 - Graded | Structs, Database
+12. Misc - Miscellaneous folder to hold stuff other than the assignments
 
 ## Author
 - [@AnarchistHoneybun](https://github.com/AnarchistHoneybun)
